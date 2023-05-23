@@ -1,6 +1,6 @@
 # GrantGPT: Encrypted LLM-powered RFP Generator, a model fine-tuned on Proprietary Data Sets of Previous Successful Cases.
 
-A fully encrypted and secure LLM-powered engine that learns based on hundreds of past successful grant applications, in which case all PII Data are screened through Insightcircle.ai. The purpose of this project is to speed up the formation of RFPs for technology and scientific startups and increasing the likelihood of sucessful grants being such as SBA/SBIR/STTR secured for startups, research projects, and small businesses.
+A fully encrypted and secure LLM-powered engine that learns based on hundreds of past successful grant applications, in which case all PII Data are screened through Insightcircle.ai. The purpose of this project is to speed up the formation of RFPs for technology and scientific startups and increase the chances of grants such as SBA/SBIR/STTR secured for startups, research projects, and small businesses.
 
 
 # Contact Us | Book Your Free First 15-min Call:
