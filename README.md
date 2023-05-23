@@ -2,8 +2,11 @@
 
 A fully encrypted and secure LLM-powered engine that learns based on hundreds of past successful grant applications, which get anonymized and screened for any PII Data first through Insightcircle.ai to speed up the formation of RFPs for technology and scientific startups.
 
-# Contact Us
+# Visit Our Website
 
 More about us, please visit: www.grantgpt.org.
+
+# Contact Us
+
 If you or your colleague would like a 15-minute free,
 initial consulting call, please email contact@grantgpt.org.
