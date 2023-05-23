@@ -5,8 +5,7 @@ A fully encrypted and secure LLM-powered engine that learns based on hundreds of
 
 # Book Your First Complimentary 15-min Call:
 
-If you or your colleague would like a 15-minute free,
-initial consulting call, please email contact@grantgpt.org.
+If you or your colleague would like a 15-minute free, initial consulting call, please email contact@grantgpt.org. See if your startup is eligible to apply for the upcoming round of government grants. Full info about the grants: https://www.sbir.gov/funding.
 
 
 # Visit Our Website:
