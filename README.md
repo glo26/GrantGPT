@@ -3,7 +3,7 @@
 A fully encrypted and secure LLM-powered engine that learns based on hundreds of past successful grant applications, in which case all PII Data are screened through Insightcircle.ai. The purpose of this project is to speed up the formation of RFPs for technology and scientific startups and increase the chances of grants such as SBA/SBIR/STTR secured for startups, research projects, and small businesses.
 
 
-# Contact Us | Book Your Free First 15-min Call:
+# Book Your First Complimentary 15-min Call:
 
 If you or your colleague would like a 15-minute free,
 initial consulting call, please email contact@grantgpt.org.
