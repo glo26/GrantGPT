@@ -6,7 +6,7 @@ A fully encrypted and secure LLM-powered engine that learns based on hundreds of
 
 More about us, please visit: www.grantgpt.org.
 
-# Contact Us
+# Contact Us | Book Your Free First 15-min Call
 
 If you or your colleague would like a 15-minute free,
 initial consulting call, please email contact@grantgpt.org.
