@@ -12,3 +12,5 @@ initial consulting call, please email contact@grantgpt.org.
 # Visit Our Website:
 
 More about us, please visit: www.grantgpt.org.
+
+(c) Copyright 2023-/end. GrantGPT. All Rights Reserved.
