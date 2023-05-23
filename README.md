@@ -12,4 +12,4 @@ If you or your colleague would like a 15-minute free, initial consulting call, p
 
 More about us, please visit: www.grantgpt.org.
 
-(c) Copyright 2023-/end. GrantGPT. All Rights Reserved.
+© Copyright 2023-. GrantGPT. All Rights Reserved.
